@@ -1,0 +1,2 @@
+# destructuringPrac
+Created with CodeSandbox
